@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pydantic/reqwest-middleware/commit/1485f61e20c8cd31cabb663788f06206c19cabaf",
       "git:hexsha": "1485f61e20c8cd31cabb663788f06206c19cabaf",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T21:12:04.795460+00:00"
     }
   ]
 }
